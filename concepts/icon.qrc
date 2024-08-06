@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/arrow.svg</file>
+    <file>icons/wifi_off.svg</file>
+    <file>icons/wifi_on.svg</file>
+    <file>icons/mark_chat_unread.svg</file>
+    <file>icons/expand_more.svg</file>
+    <file>../icons/main_icon.svg</file>
+  </qresource>
+</RCC>
